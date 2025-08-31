@@ -20,6 +20,5 @@ function Clear() {
         output.value ="Error";
       }
  }
-   
 
  
